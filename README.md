@@ -22,7 +22,7 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 
-[video link to the app[(https://drive.google.com/file/d/1nuwQZ3jE0B6wZU769-PYdd1SAkghSgVb/view]]
+[video link to the app[[(https://drive.google.com/file/d/1nuwQZ3jE0B6wZU769-PYdd1SAkghSgVb/view](https://drive.google.com/file/d/1nuwQZ3jE0B6wZU769-PYdd1SAkghSgVb/view)]]
 
 # Instructions to use
 write "npm i" to install all node modules before using this application
