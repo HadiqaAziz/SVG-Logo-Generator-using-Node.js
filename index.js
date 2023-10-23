@@ -1,4 +1,4 @@
-const fs = require('./node_modules/graceful-fs/graceful-fs')
+const fs = require('fs')
 const inquirer = require("inquirer");
 const {Circle, Square, Triangle} = require("./lib/shapes");
 // Imports the graceful-fs, inquirer, Circle, Square, and Triangle modules.
